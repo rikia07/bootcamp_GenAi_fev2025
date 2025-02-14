@@ -18,7 +18,7 @@ def fin_oldest_cat(self, cats):
 
 # Exercise 2 : Dogs
 class Dog:
-    def _init_(self, name_dog, height_dog)
+    def _init_(self, name_dog, height_dog):
        self.name = dog_name
        self.height = dog_height
 
