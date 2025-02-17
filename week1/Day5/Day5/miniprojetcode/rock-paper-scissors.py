@@ -10,7 +10,7 @@ def get_user_menu_choice():
 def print_results(results_game):
     print("here your results :  ") 
     for result in results_game:
-        
+
 
 
 # fonction main ; importer game.py
